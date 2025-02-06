@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include <windows.h>
-char pass[20]={"Hira123"};
+char pass[20]={"umer123"};
 struct items
 {
 	char no[5];
